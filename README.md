@@ -9,7 +9,7 @@
 
 
 ### ☕ Responsive Coffee Website
-- Responsive Coffee Website Using HTML CSS & JavaScript
+- Responsive Coffee Website Using HTML SCSS & JavaScript
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
